@@ -1,0 +1,5 @@
+scikit-learn # for forecasting tools
+xgboost # for forecasting tools
+pytimetk # for forecasting tools
+openpyxl # for excel challenge
+ai-data-science-team # for EDA Tools Agent Demo
